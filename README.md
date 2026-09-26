@@ -142,13 +142,17 @@ Smart restaurant seat availability system using IoT and real-time monitoring.
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandhu-2008&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhu-2008&layout=compact&theme=tokyonight&hide_border=true" height="180">
+| 📌 | Details |
+|---|---|
+| 🧑‍💻 Focus | Web Development • AI • Data • IoT |
+| 🧠 Learning | DSA • AI/ML • JavaScript |
+| 🚀 Building | LANDGUARD AI • FinBattle • AI Placement Trainer • DineSync |
+| 💻 Practice | LeetCode • Problem Solving |
+| 🏆 Interests | Hackathons • Real-World Projects |
 
 </div>
 ---
