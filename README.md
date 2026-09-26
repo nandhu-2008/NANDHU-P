@@ -168,7 +168,7 @@ Smart restaurant seat availability system using IoT and real-time monitoring.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NANDHU-P/NANDHU-P/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/nandhu-2008/NANDHU-P/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
