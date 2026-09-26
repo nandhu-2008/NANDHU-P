@@ -33,24 +33,24 @@
 <h3 align="center">📌 Featured Projects</h3>
 
 #### 🎯 AI Placement Trainer
-> AI-based tool to help students prepare for placements.
-`Repo: coming soon`
+
+> AI-powered placement preparation platform covering aptitude, technical interviews, group discussions and AI-based interview practice.  
+> `Web` `AI` `Firebase`
 
 #### ⚔️ FinBattle
-> Finance-focused project — *(add a one-line description of what it actually does)*
-`Repo: coming soon`
+
+> Gamified financial literacy platform where students learn finance through quizzes, challenges and competitive gameplay.  
+> `Web` `Gamification` `Finance`
 
 #### 🍽️ DineSync
-> Project related to dining/restaurant coordination — *(add a one-line description)*
-`Repo: coming soon`
 
-#### ⛰️ Landslide Alert
-> Alert system for landslide risk/prediction — *(add a one-line description)*
-`Repo: coming soon`
+> Smart restaurant seat availability system using IoT sensors and real-time monitoring to help manage available seats efficiently.  
+> `IoT` `ESP32` `Sensors` `Web`
 
-<p align="center">🔗 Repos will be linked here once pushed to GitHub — stay tuned!</p>
+#### ⛰️ LANDGUARD AI
 
----
+> AI-powered landslide monitoring and early-warning system using satellite data, environmental analysis and interactive maps.  
+> `AI/ML` `Satellite Data` `Maps` `Environmental Monitoring`
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandhu-2008&color=blueviolet&style=flat" alt="profile views" />
