@@ -1,8 +1,6 @@
-<!-- ========================= -->
-
-<!--        PROFILE HEADER     -->
-
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                    -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -14,17 +12,15 @@
 
 <br>
 
-<a href="https://github.com/NANDHU-P">
-<img src="https://img.shields.io/github/followers/NANDHU-P?style=for-the-badge&logo=github&label=FOLLOWERS&color=111111" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=NANDHU-P&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/B.Tech-IT-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Developer-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/AI%20Explorer-0D1117?style=for-the-badge&logo=ai&logoColor=00F7FF" />
 
 </div>
 
 ---
 
-## ⚡ ABOUT ME
+# ⚡ ABOUT ME
 
 ```text
 🎓  B.Tech Information Technology Student
@@ -35,224 +31,10 @@
 
 🌐  Interested in Web Development & modern UI
 
-📊  Exploring Data Analytics & visualization
+📊  Exploring Data Analytics & Visualization
 
 🔧  Building IoT-based real-world solutions
 
-🧠  Improving DSA & problem-solving through practice
+🧠  Improving DSA & Problem Solving
 
-🏆  Hackathon enthusiast
-```
-
----
-
-## 🚀 WHAT I'M BUILDING
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌍 LANDGUARD AI
-
-AI-powered landslide monitoring and early-warning concept.
-
-**Focus**
-
-`AI/ML` `Satellite Data` `Maps` `Environmental Monitoring`
-
-</td>
-
-<td width="50%">
-
-### 💰 FINBATTLE
-
-Gamified financial literacy platform designed to make learning finance competitive and engaging.
-
-**Focus**
-
-`Web Development` `Gamification` `Education`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎯 AI PLACEMENT TRAINER
-
-Interactive platform for aptitude, technical, GD and interview preparation.
-
-**Focus**
-
-`Web` `AI` `Firebase` `Interview Preparation`
-
-</td>
-
-<td width="50%">
-
-### 🍽️ DINESYNC
-
-Smart restaurant seat availability system using IoT and real-time monitoring.
-
-**Focus**
-
-`IoT` `ESP32` `Sensors` `Web`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ TECH STACK
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,js" />
-</p>
-
-### 🌐 Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🧠 CURRENTLY LEARNING
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🧩 Data Structures & Algorithms             │
-│  🤖 Artificial Intelligence / ML             │
-│  🌐 Advanced Web Development                │
-│  📊 Data Analytics                          │
-│  ☁️  Cloud & Firebase                       │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-| 📌 | Details |
-|---|---|
-| 🧑‍💻 Focus | Web Development • AI • Data • IoT |
-| 🧠 Learning | DSA • AI/ML • JavaScript |
-| 🚀 Building | LANDGUARD AI • FinBattle • AI Placement Trainer • DineSync |
-| 💻 Practice | LeetCode • Problem Solving |
-| 🏆 Interests | Hackathons • Real-World Projects |
-
-</div>
----
-
-## 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NANDHU-P&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nandhu-2008/NANDHU-P/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 📈 MY DEVELOPER JOURNEY
-
-```text
-2025
- │
- ├── Started B.Tech IT
- │
- ├── Started programming
- │
- └── Built first projects
- │
- ▼
-2026
- │
- ├── Web Development
- ├── Firebase Projects
- ├── AI / ML Exploration
- ├── Hackathon Projects
- ├── Data Analytics
- └── DSA / LeetCode
- │
- ▼
-NEXT
- │
- ├── Build bigger projects
- ├── Improve problem solving
- ├── Explore AI deeply
- └── Prepare for internships
-```
-
----
-
-## 🏆 GOALS
-
-```text
-[████████████████░░░░]  Build Real-World Projects
-
-[██████████████░░░░░░]  Master DSA
-
-[████████████░░░░░░░░]  Explore AI/ML
-
-[███████████░░░░░░░░░]  Contribute to Open Source
-
-[████████░░░░░░░░░░░░]  Secure a Great Internship
-```
-
----
-
-## 💡 MY PHILOSOPHY
-
-<div align="center">
-
-### `LEARN → BUILD → BREAK → FIX → IMPROVE`
-
-**Every project is a chance to learn something new.**
-
-</div>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/NANDHU-P">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚡ Thanks for visiting my profile!
-
-`⭐ Explore my repositories • 🚀 Follow my journey`
-
-</div>
+🏆  Hackathon Enthusiast
