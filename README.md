@@ -146,12 +146,11 @@ Smart restaurant seat availability system using IoT and real-time monitoring.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NANDHU-P&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=nandhu-2008&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDHU-P&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhu-2008&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
-
 ---
 
 ## 🔥 CONTRIBUTION STREAK
