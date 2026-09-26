@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nandhu P</h1>
-<h3 align="center">Data Science & AI Enthusiast | 2nd Year @ NGP College</h3>
+# Hi 👋, I'm Nandhu P
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+ML+%2F+AI+projects...;Learning+Data+Science+every+day;Open+to+Internships+%26+Collaborations!" alt="Typing SVG" />
-</p>
+### Data Science & AI Enthusiast | 2nd Year @ NGP College
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nandhu-nandhu-05452937b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:paramasivannandhu@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+ML+%2F+AI+projects...;Learning+Data+Science+every+day;Open+to+Internships+%26+Collaborations!)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhu-nandhu-05452937b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramasivannandhu@example.com)
 
 ---
 
 ### 🚀 About Me
+
 - 🎓 2nd Year student at **NGP College**
 - 🔭 Currently exploring **Data Science & Machine Learning**
 - 🌱 Learning: Deep Learning, NLP, and MLOps basics
@@ -24,17 +20,14 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,pandas,mysql,git,vscode,jupyter" />
-</p>
+![](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,pandas,mysql,git,vscode,jupyter)
 
 ---
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nandhu-2008&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhu-2008&layout=compact&theme=radical&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=nandhu-2008&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhu-2008&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -62,12 +55,8 @@
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhu-2008&theme=react-dark&hide_border=true" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=nandhu-2008&theme=react-dark&hide_border=true)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandhu-2008&color=blueviolet&style=flat" alt="profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=nandhu-2008&color=blueviolet&style=flat)
